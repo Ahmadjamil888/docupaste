@@ -1,18 +1,10 @@
-# Welcome to your Lovable project
+# Welcome to Docupaste
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/5d249bbc-bedf-4c38-bdcd-3cbd42ab4545
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/5d249bbc-bedf-4c38-bdcd-3cbd42ab4545) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,10 +52,3 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5d249bbc-bedf-4c38-bdcd-3cbd42ab4545) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
